@@ -9,5 +9,5 @@ Provide PivotTable Summaries for the following:
 6) Profit per Year and Country
 7) Units Sold per Country and Product
 8) Profit per Year, per Country, and per Product
-<img width="382" height="217" alt="image" src="[https://github.com/user-attachments/assets/8825bbb8-fd8e-4b22-aee0-043ce1cc0414](https://github.com/villydger/Excel-Pivot/blob/main/Product%20Sales%20Dashboard.jpg")" />
+<img width="382" height="217" alt="image" src="https://github.com/villydger/Excel-Pivot/blob/main/Product%20Sales%20Dashboard.jpg" />
 
