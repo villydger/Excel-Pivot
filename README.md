@@ -1,4 +1,4 @@
-# Excel-Pivot
+# Excel-Pivot Dashboard
 Product Sales Dashboard
 Provide PivotTable Summaries for the following:
 1) Profit per Year
